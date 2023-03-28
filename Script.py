@@ -150,7 +150,7 @@ Nᴀᴍᴇ - {}"""
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : ᴊᴏᴇʟ ᴋᴜʀɪᴀɴ ʙɪᴊᴜ
 • ᴜꜱᴇʀɴᴀᴍᴇ : @creatorbeatz
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a h/creatorbeatz'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/creatorbeatz'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -195,8 +195,8 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : <a href={https://t.me/svs_team_bot}>{SVSTEAM'S BOT}</a>
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href={https://t.me/svs_support_chat}>{SVS BOT SUPPORT CHAT}</a>
+▫️ ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/svs_team_bot">SVSTEAM'S BOT</a>
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href="https://t.me/svs_support_chat">SVS BOT SUPPORT CHAT</a>
 =========== • ✠ • ===========</b>
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
