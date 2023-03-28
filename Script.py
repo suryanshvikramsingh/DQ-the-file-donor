@@ -194,10 +194,13 @@ Nᴀᴍᴇ - {}"""
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>
+╭─────── • ◆ • ───────╮
+🔅 JOIN HERE :  <a href="https://t.me/svsteamrequestgroup">Tᴏᴜᴄʜ</a>
+╰─────── • ◆ • ───────╯
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/svs_team_bot">SVSTEAM'S BOT</a>
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href="https://t.me/svs_support_chat">SVS BOT SUPPORT CHAT</a>
-=========== • ✠ • ===========</b>
+▫️ ᴄʜᴀɴɴᴇʟ : @svs_team_bot
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @svs_support_chat
+=========== • ✠ • ===========</b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
 IMDb Data:
