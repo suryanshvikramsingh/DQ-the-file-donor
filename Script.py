@@ -149,7 +149,7 @@ Nᴀᴍᴇ - {}"""
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : SURYANSH VIKRAM SINGH
-• ᴜꜱᴇʀɴᴀᴍᴇ : @@PromoterSuryansh
+• ᴜꜱᴇʀɴᴀᴍᴇ : @PromoterSuryansh
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/PromoterSuryansh'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
