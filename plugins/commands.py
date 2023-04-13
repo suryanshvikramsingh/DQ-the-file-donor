@@ -848,8 +848,8 @@ async def shortlink_info(bot, message):
     else:
         return
     reply = await message.reply_text("<b>Please Wait...</b>")
-    shortlink_url = await get_group_settings(grpid, 'shortlink')
-    api_key = await get_group_settings(grpid, 'shortlink_api')
+    shortlink_url = await get_group_settings(grpid, 'shortlink', shortlink_url)
+    api_key = await get_group_settings(grpid, 'shortlink_api', api_key)
     if not shortlink_url or not api_key:
         await reply.edit_text("<b>No shortlink URL or API key found for this group.</b>")
     else:
